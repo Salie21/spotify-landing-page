@@ -9,7 +9,7 @@ This project focuses on layout structure, form styling, and responsive design to
 ## 🚀 Live Demo
 
 🔗 View Live Website:  
-https://salie21.github.io/music-log-in-page/
+Coming soon
 
 🔗 GitHub Repository:  
 https://github.com/Salie21/music-log-in-page
@@ -19,8 +19,7 @@ https://github.com/Salie21/music-log-in-page
 ## 🛠️ Built With
 
 - HTML5
-- CSS3
-- Flexbox
+- CSS
 - Responsive Design Principles
 
 ---
@@ -28,7 +27,6 @@ https://github.com/Salie21/music-log-in-page
 ## ✨ Features
 
 - Responsive login form
-- Modern UI styling
 - Styled input fields
 - Clean button design
 - Hover effects
